@@ -8,4 +8,5 @@ int main() {
 	cout << "I am zdc. " << endl;
 	cout << "µÚÈı´ÎĞŞ¸Ä" << endl;
 	cout << "masteråˆ†æ”¯ä¸Šæ·»åŠ å†…å®¹" <<endl;
+	cout << "devæ·»åŠ " <<endl;
 }
